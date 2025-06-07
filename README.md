@@ -26,5 +26,5 @@ A simple and interactive **Python-based Salary Prediction System** that uses **L
    cd salary-prediction-system
 2. Place a valid .csv file in the project directory.
 
-3. Run the script: python salary_predictor.py
+3. Run the script:  python salary_predictor.py
 
